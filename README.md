@@ -60,5 +60,5 @@ Geração automática de tabelas de dados em função da distância percorrida o
 
 # 📈 Como Executar
 
-Defina as constantes iniciais no topo do código:m_val (massa), R_val (raio do disco), r_val (raio do eixo).H0_val (altura inicial) e dt (passo de tempo).
+Defina as constantes iniciais no topo do código: m_val (massa), R_val (raio do disco), r_val (raio do eixo), H0_val (altura inicial) e dt (passo de tempo).
 Execute as células em ordem para processar desde a simbologia até os gráficos finais.
