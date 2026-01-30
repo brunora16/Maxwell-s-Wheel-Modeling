@@ -1,5 +1,5 @@
 # Maxwell-s-Wheel-Modeling
-Projeto final da disciplina Modelagem Matemática e Computacional.
+Projeto final da disciplina Modelagem Matemática e Computacional, contém o código e a apresentação.
 
 # 🎡 Simulação da Roda de Maxwell
 
